@@ -1,0 +1,44 @@
+[
+  {
+    "id": "veh-1",
+    "userId": "u-101",
+    "make": "Toyota",
+    "model": "Camry SE",
+    "year": 2022,
+    "licensePlate": "TX-892-KLR",
+    "vin": "4T1B11HK5NU129841",
+    "color": "Midnight Black",
+    "fuelType": "Gasoline",
+    "mileage": "28,450 miles",
+    "notes": "Regular commuter car. Brake pads checked last October.",
+    "createdAt": "2026-01-12"
+  },
+  {
+    "id": "veh-2",
+    "userId": "u-101",
+    "make": "Ford",
+    "model": "F-150 Lariat",
+    "year": 2021,
+    "licensePlate": "TX-401-TRK",
+    "vin": "1FTFW1E84MFA78392",
+    "color": "Agate Black",
+    "fuelType": "Hybrid / EcoBoost",
+    "mileage": "41,200 miles",
+    "notes": "Used for weekend hauling. Transmission service upcoming.",
+    "createdAt": "2026-01-18"
+  },
+  {
+    "id": "veh-3",
+    "userId": "u-102",
+    "make": "Honda",
+    "model": "Civic Touring",
+    "year": 2023,
+    "licensePlate": "CA-778-PRM",
+    "vin": "2HGFC2F89NH512399",
+    "color": "Platinum White Pearl",
+    "fuelType": "Gasoline",
+    "mileage": "14,800 miles",
+    "notes": "Under factory warranty. Prefers OEM fluids only.",
+    "createdAt": "2026-02-01"
+  }
+]

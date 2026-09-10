@@ -1,0 +1,137 @@
+[
+  {
+    "id": "srv-1",
+    "name": "Comprehensive Periodic Maintenance",
+    "category": "Maintenance",
+    "price": 149.99,
+    "duration": "2 - 3 hours",
+    "icon": "bi-wrench-adjustable",
+    "badge": "Popular",
+    "shortDescription": "Complete bumper-to-bumper 40-point vehicle checkup including synthetic engine oil & filter replacement.",
+    "features": [
+      "Engine synthetic oil & OEM filter replacement",
+      "Brake pads & fluid inspection",
+      "Air filter & cabin pollen filter check",
+      "Tire pressure & tread depth check",
+      "Battery health & terminal test",
+      "Coolant & wiper fluid top-up"
+    ]
+  },
+  {
+    "id": "srv-2",
+    "name": "Brake System Repair & Pad Replacement",
+    "category": "Repairs",
+    "price": 189.00,
+    "duration": "1.5 - 2 hours",
+    "icon": "bi-shield-check",
+    "badge": "Safety Critical",
+    "shortDescription": "Full brake system overhaul, rotor resurfacing, ceramic pads installation, and fluid bleeding.",
+    "features": [
+      "Front and rear brake disc inspection",
+      "Premium low-dust ceramic brake pads installation",
+      "Hydraulic brake line pressure check",
+      "DOT4 brake fluid flush & bleed",
+      "Caliper pin lubrication & rust removal"
+    ]
+  },
+  {
+    "id": "srv-3",
+    "name": "Computerized Engine Diagnostics",
+    "category": "Diagnostics",
+    "price": 89.50,
+    "duration": "1 hour",
+    "icon": "bi-cpu",
+    "badge": "Advanced Tech",
+    "shortDescription": "Advanced OBD-II computerized scanning to pinpoint engine warning lights, misfires, and sensor faults.",
+    "features": [
+      "OBD-II ECU computer code scan & readout",
+      "Live sensor data stream verification",
+      "Ignition coil & spark plug health analysis",
+      "Fuel injection pressure assessment",
+      "Detailed diagnostic report & repair recommendation"
+    ]
+  },
+  {
+    "id": "srv-4",
+    "name": "Climate Control & AC Overhaul",
+    "category": "Comfort",
+    "price": 120.00,
+    "duration": "1 - 2 hours",
+    "icon": "bi-snow",
+    "badge": "Seasonal",
+    "shortDescription": "High-performance air conditioning gas recharge, leak vacuum test, and anti-bacterial cabin sanitization.",
+    "features": [
+      "R134a / R1234yf refrigerant recovery & refill",
+      "Compressor clutch & belt tension check",
+      "AC condenser coil debris cleaning",
+      "Evaporator core disinfection & mold removal",
+      "Cabin temperature vent testing"
+    ]
+  },
+  {
+    "id": "srv-5",
+    "name": "Wheel Alignment & Laser Balancing",
+    "category": "Tires",
+    "price": 79.99,
+    "duration": "1 hour",
+    "icon": "bi-disc",
+    "badge": "Recommended",
+    "shortDescription": "3D computer laser wheel alignment, dynamic balancing, and tire rotation to maximize tire lifespan.",
+    "features": [
+      "3D computerized 4-wheel angle alignment (Camber, Caster, Toe)",
+      "High-speed digital wheel balancing",
+      "Tire tread wear pattern analysis",
+      "Steering wheel centering check",
+      "Suspension ball joints & bushings check"
+    ]
+  },
+  {
+    "id": "srv-6",
+    "name": "Ceramic Coating & Deep Detailing",
+    "category": "Detailing",
+    "price": 249.00,
+    "duration": "4 - 5 hours",
+    "icon": "bi-stars",
+    "badge": "Premium",
+    "shortDescription": "Showroom-grade paint correction, 9H nano-ceramic hydrophobic layer, and steam upholstery extraction.",
+    "features": [
+      "Multi-stage high-gloss paint correction & polish",
+      "Hydrophobic 9H nano-ceramic protective layer",
+      "Interior deep steam extraction & leather conditioning",
+      "Engine bay degreasing & protective dressing",
+      "Alloy wheels & tire shine application"
+    ]
+  },
+  {
+    "id": "srv-7",
+    "name": "Battery & Electrical System Check",
+    "category": "Electrical",
+    "price": 49.00,
+    "duration": "45 mins",
+    "icon": "bi-lightning-charge",
+    "badge": "Quick",
+    "shortDescription": "Complete cranking amps load test, alternator voltage testing, and starter motor health report.",
+    "features": [
+      "Digital battery cranking capacity test",
+      "Alternator charging output assessment",
+      "Starter motor draw test",
+      "Terminal cleaning & anti-corrosion spray"
+    ]
+  },
+  {
+    "id": "srv-8",
+    "name": "Transmission Fluid Flush & Service",
+    "category": "Drivetrain",
+    "price": 199.00,
+    "duration": "2 hours",
+    "icon": "bi-gear-wide-connected",
+    "badge": "Longevity",
+    "shortDescription": "Complete transmission fluid evacuation, pan cleaning, filter replacement, and valve body inspection.",
+    "features": [
+      "Full synthetic automatic / manual transmission fluid flush",
+      "Transmission pan cleaning & magnet debris analysis",
+      "New OEM transmission filter & pan gasket",
+      "Road test for smooth gear shifts"
+    ]
+  }
+]
